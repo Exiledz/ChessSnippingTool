@@ -1,0 +1,1 @@
+start "" ".\Snipping-Ocr\Snipping OCR\bin\Release\Snipping OCR.exe" "--invoke=python .\image_to_lichess\image_to_lichess.py"
