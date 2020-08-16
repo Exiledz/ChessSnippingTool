@@ -4,3 +4,4 @@
 [submodule "Snipping-Ocr"]
 	path = Snipping-Ocr
 	url = https://github.com/Exiledz/SnippingTool.git
+	branch = for-snipping-tools
